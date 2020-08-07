@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style="background:url(data:image/png;base64,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)">
+​
+<form class="w3-container w3-card-4" action="/action_page.php">
+  <h2 class="w3-text-blue">Application</h2>
+  <p>Please complete the following.</p>
+  <p>      
+  <label class="w3-text-blue"><b>First Name</b></label>
+  <input class="w3-input w3-border" name="first" type="Mogammat"></p>
+  <p>      
+  <label class="w3-text-blue"><b>Last Name</b></label>
+  <input class="w3-input w3-border" name="last" type="Cupido"></p>
+  <p>
+   <label class="w3-text-blue"><b>Address</b></label>
+  <input class="w3-input w3-border" name="last" type="21Bergbessi"></p>
+  <p>
+   <label class="w3-text-blue"><b>ID Number</b></label>
+  <input class="w3-input w3-border" name="last" type="1234567891011121314"></p>
+  <p>
+   <label class="w3-text-blue"><b>Contact details</b></label>
+  <input class="w3-input w3-border" name="last" type="0783915056"></p>
+  <p>
+   <label class="w3-text-blue"><b>Gender</b></label>
+  <input class="w3-input w3-border" name="last" type="male"></p>
+  <p>
+   <label class="w3-text-blue"><b>Password</b></label>
+  <input class="w3-input w3-border" name="last" type="MESSI"></p>
+  
+  <button cla<p>Submit</button></p>
+</form>
+​
+</body>
+</html> 
+Collapse
+
+
+
+
+
+
+
+
